@@ -1,0 +1,2 @@
+# Sha1-Encryption-GUI-Tool
+Sha1 Encryption GUI Tool adalah sebuah program atau alat untuk mengenkripsi teks biasa, pesan atau kata sandi menggunakan metode Hash SHA1. Program atau alat ini berbentuk Graphical user interface atau GUI. Dibuat menggunakan bahasa pemrogramman python versi 3.8.10. Diunggah ke repositori GitHub ini pada Selasa, 2 Agustus 2022, pukul 21:16 PM. Pesan: Tetap semangat dan jangan menyerah, percaya Tuhan selalu besertamu dan memberimu kekuatan :).
